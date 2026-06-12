@@ -1,7 +1,7 @@
 # SOC-Analyst-Preparation
 Entry-level  SOC analyst portfolio showing investigations, labs, and cybersecurity projects.
  ## About me  
-  Aspiring SOC analyst with a Google Cybersecurity Certificate and hands-on experience developing cybersecurity knowlwedge through security investigation, Linux practice, and practical labs.
+  Aspiring SOC analyst with a Google Cybersecurity Certificate and hands-on experience developing cybersecurity knowledge through security investigations, Linux practice, and practical labs.
   ## Skills
   - Security Operations
   - Incident Response
